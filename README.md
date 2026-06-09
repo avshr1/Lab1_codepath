@@ -36,7 +36,6 @@ Here's a walkthrough of implemented required features:
 
 <img src='https://i.imgur.com/9iDzsSO.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with Kap
 
 ## Notes
 
