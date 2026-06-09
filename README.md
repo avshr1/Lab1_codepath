@@ -36,7 +36,6 @@ Here's a walkthrough of implemented required features:
 
 ![Video Walkthrough](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmtrbnNrN3M2NDFrYWt4OHJ3bWI5cjJjdTIybmtjbGE0dWJ2OXpxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aQNPMWbhmb5MIUob3n/giphy.gif)
 
-<img src='![Video Walkthrough](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmtrbnNrN3M2NDFrYWt4OHJ3bWI5cjJjdTIybmtjbGE0dWJ2OXpxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aQNPMWbhmb5MIUob3n/giphy.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Notes
